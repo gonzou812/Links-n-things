@@ -32,29 +32,3 @@ I hope that this list of links will be of some use to you  and will supplement t
 *[also the flight plan for Apollo 11 here](https://www.hq.nasa.gov/alsj/a11/a11fltpln_final_reformat.pdf)
 
 *[a little something on the difference between science and religion](https://www.physicsforums.com/threads/difference-between-science-and-religion.2248/)
-
-                 ____
-                /___.`--.____ .--. ____.--(
-                       .'_.- (    ) -._'.
-                     .'.'    |'..'|    '.'.
-              .-.  .' /'--.__|____|__.--'\ '.  .-.
-             (O).)-| |  \    |    |    /  | |-(.(O)
-              `-'  '-'-._'-./      \.-'_.-'-'  `-'
-                 _ | |   '-.________.-'   | | _
-              .' _ | |     |   __   |     | | _ '.
-             / .' ''.|     | /    \ |     |.'' '. \
-             | |( )| '.    ||      ||    .' |( )| |
-             \ '._.'   '.  | \    / |  .'   '._.' /
-              '.__ ______'.|__'--'__|.'______ __.'
-             .'_.-|         |------|         |-._'.
-            //\\  |         |--::--|         |  //\\
-           //  \\ |         |--::--|         | //  \\
-          //    \\|        /|--::--|\        |//    \\
-         / '._.-'/|_______/ |--::--| \_______|\`-._.' \
-        / __..--'        /__|--::--|__\        `--..__ \
-       / /               '-.|--::--|.-'               \ \
-      / /                   |--::--|                   \ \
-     / /                    |--::--|                    \ \
- _.-'  `-._                 _..||.._                  _.-` '-._
-'--..__..--' LGB           '-.____.-'                '--..__..-'
-
